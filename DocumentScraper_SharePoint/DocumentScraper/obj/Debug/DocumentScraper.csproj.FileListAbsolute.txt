@@ -1,0 +1,8 @@
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper\bin\Debug\DocumentScraper.dll.config
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper\bin\Debug\DocumentScraper.dll
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper\bin\Debug\DocumentScraper.pdb
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper\obj\Debug\DocumentScraper.csprojResolveAssemblyReference.cache
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper\obj\Debug\DocumentScraper.dll
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper\obj\Debug\DocumentScraper.pdb

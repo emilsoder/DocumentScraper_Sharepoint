@@ -1,0 +1,11 @@
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\bin\Debug\DocumentScraper.Tester.exe.config
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\bin\Debug\DocumentScraper.Tester.exe
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\bin\Debug\DocumentScraper.Tester.pdb
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\bin\Debug\DocumentScraper.dll
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\bin\Debug\DocumentScraper.pdb
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\bin\Debug\DocumentScraper.dll.config
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\obj\Debug\DocumentScraper.Tester.csprojResolveAssemblyReference.cache
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\obj\Debug\DocumentScraper.Tester.exe
+C:\Users\extemso\Source\Repos\DocumentScraper_SharePoint\DocumentScraper.Tester\obj\Debug\DocumentScraper.Tester.pdb
